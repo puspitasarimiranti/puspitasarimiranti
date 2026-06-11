@@ -36,16 +36,7 @@ I am a results-driven Data Analyst certified by IBM, specializing in transformin
 
 ---
 
-### 📊 GitHub Metrics
-
-| Area of Expertise | Code Quality |
-| :--- | :--- |
-| ![Top Langs](https://vercel.app[YOUR-GITHUB-USERNAME]&layout=compact&theme=visual_studio_dark) | ![Your GitHub Stats](https://vercel.app[YOUR-GITHUB-USERNAME]&show_icons=true&theme=visual_studio_dark) |
-
----
-
 ### 🤝 Connect with Me
 
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- **Portfolio Website:** [yourportfolio.com](https://yourportfolio.com)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [https://www.linkedin.com/in/miranti-p/](https://www.linkedin.com/in/miranti-p/)
+- **Email:** [puspitasari.miranti.91@gmail.com](mailto:puspitasari.miranti.91@gmail.com)
